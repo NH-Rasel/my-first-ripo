@@ -1,0 +1,21 @@
+img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+  }
+  h1 {
+    color: rgb(212, 253, 29);
+    background-color: rgb(163, 163, 163);
+    text-align: center;
+
+    
+  }
+  h2 {
+text-align: center;
+  }
+  hr {
+    height: 2px;
+    width: 280px;
+
+  }
